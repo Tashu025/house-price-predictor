@@ -66,3 +66,5 @@ Scaling - RobustScaler
 * sklearn 0.20.1
 * xgboost 0.72
 * lightgbm 2.2.2
+
+Linked in- www.linkedin.com/in/tashu-kumari7913
